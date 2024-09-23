@@ -1,0 +1,11 @@
+.titleModal,
+.contentModal {
+	background-color: #fafafa;
+	border: 2px solid #c9c9c9;
+}
+
+.titleModal:focus,
+.contentModal:focus {
+	border-color: #1d1d1d;
+	outline: none;
+}
