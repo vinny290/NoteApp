@@ -1,8 +1,18 @@
-# notesApp
 
-## Запуск сервера и клиента
+1. 
+   - **Сервер:**
+     ```bash
+     cd server
+     npm install
+     npm run server
+     ```
+2.
+   - **Клиент:**
+     ```bash
+     cd ..
+     cd client
+     npm install
+     npm run dev
+     ```
 
-Чтобы запустить сервер, выполните команду:
-npm run server
-Чтобы запустить клиент, выполните команду:
-npm run dev
+
